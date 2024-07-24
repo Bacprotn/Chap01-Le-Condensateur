@@ -1,11 +1,17 @@
 # Chap01 Le Condensateur
 
-
 ![Cours Chap01 : Le Condensateur](images/logo.jpg)
 - Cours Chap01 : Le Condensateur.
 - [Voir sur YouTube](https://youtu.be/t-_-3W4ihRg?si=HXezj7IzsXO8EORJ)
 
-### Liens Utiles
+## Objectifs
+
+- Réaliser la charge et la décharge d’un condensateur.
+- Reconnaitre que l’intensité i du courant électrique est une grandeur algébrique.
+- Déterminer à l’aide de la courbe de charge d’un condensateur, la valeur de la capacité C.
+- Calculer l’énergie emmagasinée par un condensateur.
+
+## Liens Utiles
 
 - [YouTube](https://www.youtube.com/@BacPro-tn)
 - [Facebook](https://www.facebook.com/BacPro.tn)
@@ -14,11 +20,3 @@
 - [TikTok](https://www.tiktok.com/@bacpro.tn)
 - [Instagram](https://www.instagram.com/bacpro.tn)
 - [GitHub](https://www.github.com/Bacprotn)
-- 
-## Objectifs
-
-- Réaliser la charge et la décharge d’un condensateur.
-- Reconnaitre que l’intensité i du courant électrique est une grandeur algébrique.
-- Déterminer à l’aide de la courbe de charge d’un condensateur, la valeur de la capacité C.
-- Calculer l’énergie emmagasinée par un condensateur.
-
