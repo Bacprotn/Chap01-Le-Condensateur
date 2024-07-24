@@ -1,4 +1,4 @@
-<div style="border-radius: 10px; overflow: hidden; width: 100%; max-width: 100%;">
+<div style="border-radius: 10px; overflow: hidden; display: inline-block;">
   <img src="images/logo.png" alt="Thumbnail" style="width: 100%; height: auto;">
 </div>
 
