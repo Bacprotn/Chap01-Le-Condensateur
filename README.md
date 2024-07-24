@@ -11,7 +11,7 @@
 - Reconnaitre que l’intensité i du courant électrique est une grandeur algébrique.
 - Déterminer à l’aide de la courbe de charge d’un condensateur, la valeur de la capacité C.
 - Calculer l’énergie emmagasinée par un condensateur.
-- 
+
 ### Liens Utiles
 
 - [YouTube](https://www.youtube.com/@BacPro-tn)
