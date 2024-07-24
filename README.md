@@ -1,3 +1,5 @@
+![Thumbnail de mon projet](images/logo.png)
+
 # Chap01 Le Condensateur
 
 ![Cours Chap01 : Le Condensateur](images/logo.jpg)
