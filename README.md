@@ -1,4 +1,4 @@
-<img src="images/logo.jpg" alt="Thumbnail" style="width: 100%;max-width: 100%;border-radius: 10px;">
+<img src="images/logo.png" alt="Thumbnail" style="width: 100%;max-width: 100%;border-radius: 10px;">
 
 # Chap01 Le Condensateur
 
