@@ -1,6 +1,4 @@
-<div style="border-radius: 10px; overflow: hidden; display: inline-block;">
-  <img src="images/logo.png" alt="Thumbnail" style="width: 100%; height: auto; border-radius: 10px; overflow: hidden;">
-</div>
+<img src="images/logo.png" alt="Thumbnail" style="width: 100%; height: auto;">
 
 # Chap01 Le Condensateur
 
