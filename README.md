@@ -1,4 +1,4 @@
-![Thumbnail de mon projet](images/logo.jpg)
+<img src="images/logo.jpg" alt="Thumbnail de mon projet" style="width:100%; height:auto;">
 
 # Chap01 Le Condensateur
 
