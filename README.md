@@ -1,8 +1,7 @@
-![Thumbnail de mon projet](images/logo.png)
+![Thumbnail de mon projet](images/logo.jpg)
 
 # Chap01 Le Condensateur
 
-![Cours Chap01 : Le Condensateur](images/logo.jpg)
 - Cours Chap01 : Le Condensateur.
 - [Voir sur YouTube](https://youtu.be/t-_-3W4ihRg?si=HXezj7IzsXO8EORJ)
 
